@@ -41,5 +41,5 @@ I specialise in managing the full sales and project lifecycle — from initial c
 ## Portfolio Projects
 
 - [Exhibition Stand Project – End-to-End Delivery](Project_1_Exhibition_Stand.md)
-- [Client Relationship & Account Growth](Project_2_Client_Management.md)
+- [Client Relationship & Account Growth](https://github.com/Ntombie-hub/Project_2_Client_Management.md)
 - [Workflow & Process](https://github.com/Ntombie-hub/Process_Workflow.md)
