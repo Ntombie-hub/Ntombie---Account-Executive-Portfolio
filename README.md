@@ -1,40 +1,80 @@
-# Ntombizodwa Setsoai – Account Executive Portfolio
+# Ntombizodwa Setsoai – Business Development Representative Portfolio
 
 ## Overview
-I am an Account Executive and Project Manager with over 7 years of experience managing client relationships and delivering end-to-end exhibition projects in fast-paced environments.
 
-I specialise in managing the full sales and project lifecycle — from initial client engagement to final delivery and repeat business.
+I'm a Business Development Representative with over six years of experience generating new business, building long-term client relationships, and helping businesses grow through solution-focused sales.
+
+My experience spans B2B sales, lead generation, cold outreach, appointment setting, account management, and consultative selling. I enjoy connecting with people, understanding their business needs, and creating opportunities that deliver value for both the client and the business.
 
 ---
 
 ## What I Do
 
-- Manage inbound leads and convert them into active projects
-- Engage clients to understand their requirements and objectives
-- Translate client briefs into actionable plans for design and production
-- Coordinate cross-functional teams (design, production, logistics)
-- Oversee project execution from concept to completion
-- Maintain strong client relationships for repeat business
+- Prospect and qualify new business opportunities
+- Conduct cold calls, cold emails, and outbound outreach
+- Build relationships with prospective and existing clients
+- Identify client needs and recommend tailored solutions
+- Schedule meetings and appointments for sales teams
+- Manage sales pipelines and CRM systems
+- Negotiate proposals and close opportunities
+- Maintain long-term client relationships that drive repeat business
 
 ---
 
-## Key Strengths
+## Key Achievements
 
-- Full sales cycle ownership
-- Strong client communication and relationship management
-- High attention to detail and organisation
-- Ability to manage multiple projects simultaneously
-- Proactive problem-solving in high-pressure environments
+- 🏆 Women in MICE Rising Star Award Winner (2025)
+- 🤝 Secured the first client for BTA Consulting during its startup phase
+- 💰 Earned over R90,000 in commission through high-value B2B sales
+- 📈 Managed approximately 500 exhibitor accounts during Africa's Travel Indaba while generating around R600,000 in additional services revenue through consultative upselling
+
+---
+
+## Core Skills
+
+- Business Development
+- Lead Generation
+- Prospecting
+- Cold Calling
+- Cold Email Outreach
+- Lead Qualification
+- Appointment Setting
+- B2B Sales
+- Consultative Selling
+- Relationship Building
+- Negotiation
+- Pipeline Management
+- CRM Administration
 
 ---
 
 ## Tools & Systems
 
-- CRM / Workflow Management: Monday.com, Sage Pastel (invoicing & financial tracking)  
-- Project Management: Asana, Trello  
-- Communication: Microsoft Teams, Outlook, Zoom, Slack  
-- Productivity: Microsoft 365 (Excel, Word, PowerPoint)  
-- AI Tools: ChatGPT (research, communication, workflow efficiency)
+### Sales & CRM
+- Monday.com
+- LinkedIn Sales Navigator
+- Sage Evolution
+- Pipedrive
+- Airtable
+
+### Communication
+- VoIP Phone Systems
+- Microsoft Teams
+- Outlook
+- Zoom
+- Slack
+
+### Productivity
+- Microsoft 365 (Excel, Word, PowerPoint)
+- Google Workspace
+- Notion
+- Trello
+- Asana
+
+### AI & Automation
+
+- ChatGPT
+- Microsoft Copilot
 
 ---
 
