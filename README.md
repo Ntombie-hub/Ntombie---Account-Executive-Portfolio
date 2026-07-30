@@ -69,6 +69,7 @@ My experience spans B2B sales, lead generation, cold outreach, appointment setti
 - Notion
 - Trello
 - Asana
+- Canva
 
 ### AI & Automation
 
