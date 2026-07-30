@@ -23,10 +23,9 @@ My experience spans B2B sales, lead generation, cold outreach, appointment setti
 
 ## Key Achievements
 
-- 🏆 Women in MICE Rising Star Award Winner (2025)
-- 🤝 Secured the first client for BTA Consulting during its startup phase
-- 💰 Earned over R90,000 in commission through high-value B2B sales
-- 📈 Managed approximately 500 exhibitor accounts during Africa's Travel Indaba while generating around R600,000 in additional services revenue through consultative upselling
+🏆 Recipient of the Women in MICE Rising Star Award (2025), recognizing excellence in client service and industry contribution.
+🤝 Helped secure BTA Consulting's first client during its startup phase through proactive business development and relationship building.
+📈 Successfully managed approximately 500 exhibitor accounts during Africa's Travel Indaba, identifying opportunities to expand client solutions through consultative selling.
 
 ---
 
